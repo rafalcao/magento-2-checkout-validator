@@ -1,0 +1,20 @@
+{
+    "name": "technical-challenge/magento-2-checkout-validator",
+    "description": "Magento 2 Checkout Validator",
+    "type": "magento2-module",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "Rafael Falcao",
+            "email": "rafaelfalcaof@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "TechChallenge\\CheckoutValidator\\": ""
+        }
+    }
+}

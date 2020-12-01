@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Technical Challenge
+ *
+ * @category    TechChallenge
+ * @package     TechChallenge_CheckoutValidator
+ * @author      Rafael Falcão <rafaelfalcaof@gmail.com>
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="TechChallenge_CheckoutValidator" setup_version="0.0.1">
+        <sequence>
+        </sequence>
+    </module>
+</config>
