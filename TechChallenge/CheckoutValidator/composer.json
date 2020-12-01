@@ -1,5 +1,5 @@
 {
-    "name": "technical-challenge/magento-2-checkout-validator",
+    "name": "rafalcao/magento-2-checkout-validator",
     "description": "Magento 2 Checkout Validator",
     "type": "magento2-module",
     "version": "0.0.1",
