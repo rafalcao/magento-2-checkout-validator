@@ -19,8 +19,8 @@ class InventoryValidator
      * @param StockStatusInterface $stock
      * @return bool
      */
-    public function validate(StockStatusInterface $stock): bool
-    {   
+    public function validate($stock): bool
+    {
         if (!$stock) {
             return false;
         }
